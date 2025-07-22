@@ -108,10 +108,13 @@ button {
 button:hover {
   background-color: #006edc;
 }
-.dark-mode button:hover {
-  background-color: #1f9aff;
+.dark-mode button {
+  background-color: #0a84ff;
 }
 
+.dark-mode button:hover {
+  background-color: #006edc;
+}
 .switch {
   position: relative;
   display: inline-block;
